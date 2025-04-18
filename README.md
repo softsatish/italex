@@ -1,7 +1,3 @@
-# Cyber Security Website
-Cyber Security Site Template made using React, Tailwind CSS  and Typescript.
-
-
 
 ## Features
 - Responsive Design
@@ -21,17 +17,4 @@ Cyber Security Site Template made using React, Tailwind CSS  and Typescript.
 
 
 
-## Installation-
 
-Clone into your local Repository
-
-```bash
-npm i
-
-```
-
-## To run 
-```bash
-npm run dev
-
-```
